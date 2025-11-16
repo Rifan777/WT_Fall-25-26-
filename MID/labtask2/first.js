@@ -22,8 +22,9 @@ msg.innerHTML=
 `
 <b>Registration Successful</b>;
 
-Name: ${fullName.value};
-Email: ${email.value};
+Name: ${fullName.value} ; 
+
+Email: ${email.value}; 
 Phone:${phoneNumber.value}`;
 
 return false;
